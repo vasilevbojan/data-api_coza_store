@@ -11,7 +11,7 @@ server.use(
 
 	jsonServer.rewriter({
 		"/api/*": "/$1",
-		"/shop/:id" : "/shop/:id"
+		"/product/:id" : "/shop/:id"
 	})
 );
 server.use(router);
