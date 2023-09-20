@@ -248,7 +248,7 @@
   ],
   "restaurants": [
     {
-      "reviews": 16,
+      "reviews": 0,
       "parkinglot": true,
       "phone": "08145290260",
       "image": "https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952_1280.jpg",
@@ -258,89 +258,10 @@
       "slug": "foodfusion",
       "email": "foodfusion@gmail.com",
       "id": "5f5eccf3e923d0aca3e7d41c",
-      "reviewsList": [
-        {
-          "id": 0,
-          "author": "Martin",
-          "comment": "Very good",
-          "stars": 4
-        },
-        {
-          "id": 1,
-          "author": "Joshua",
-          "comment": "Okay",
-          "stars": 3
-        },
-        {
-          "id": 2,
-          "author": "Davis",
-          "comment": "Have seen better",
-          "stars": 2
-        },
-        {
-          "id": 3,
-          "author": "Jordan",
-          "comment": "Terrible",
-          "stars": 1
-        },
-        {
-          "id": 4,
-          "author": "asda",
-          "comment": "232",
-          "stars": 1
-        },
-        {
-          "id": 5,
-          "author": "",
-          "comment": "",
-          "stars": 0
-        },
-        {
-          "id": 6,
-          "author": "qweq",
-          "comment": "qweq",
-          "stars": 3
-        },
-        {
-          "id": 7,
-          "author": "",
-          "comment": "",
-          "stars": 2
-        },
-        {
-          "id": 8,
-          "author": ";lm;m",
-          "comment": "lklkm",
-          "stars": 2
-        },
-        {
-          "id": 9,
-          "author": "223423",
-          "comment": "234234",
-          "stars": 2
-        },
-        {
-          "id": 10,
-          "author": "dsfsdfs",
-          "comment": "dfsdf",
-          "stars": 2
-        },
-        {
-          "id": 11,
-          "author": "pmo",
-          "comment": "mpoki",
-          "stars": 4
-        },
-        {
-          "id": 12,
-          "author": "sdgeg",
-          "comment": "wegweg",
-          "stars": 2
-        }
-      ]
+      "reviewsList": []
     },
     {
-      "reviews": 6,
+      "reviews": 0,
       "parkinglot": false,
       "phone": "08145290260",
       "image": "https://cdn.pixabay.com/photo/2017/08/03/21/48/drinks-2578446_1280.jpg",
@@ -350,44 +271,7 @@
       "slug": "hathaway-foods",
       "email": "hathaway-foods@gmail.com",
       "id": "5f5eccf3e923d0aca3e7d41b",
-      "reviewsList": [
-        {
-          "id": 0,
-          "author": "Joshua",
-          "comment": "Excellent",
-          "stars": 5
-        },
-        {
-          "id": 1,
-          "author": "sfweswf",
-          "comment": "sdfsd",
-          "stars": 2
-        },
-        {
-          "id": 2,
-          "author": "",
-          "comment": "",
-          "stars": 0
-        },
-        {
-          "id": 3,
-          "author": "ewrr",
-          "comment": "32r43r",
-          "stars": 0
-        },
-        {
-          "id": 4,
-          "author": "fss",
-          "comment": "df",
-          "stars": 2
-        },
-        {
-          "id": 5,
-          "author": "asdasa",
-          "comment": "asdasd",
-          "stars": 2
-        }
-      ]
+      "reviewsList": []
     },
     {
       "reviews": 1,
@@ -400,14 +284,7 @@
       "slug": "sugarbee-kitchen",
       "email": "sugarbee-kitchen@gmail.com",
       "id": "5f5eccf3e923d0aca3e7d418",
-      "reviewsList": [
-        {
-          "id": 0,
-          "author": "asda",
-          "comment": "asdasd",
-          "stars": 2
-        }
-      ]
+      "reviewsList": []
     },
     {
       "reviews": 0,
@@ -459,9 +336,7 @@
       "slug": "01-shawarma-ajah",
       "email": "01-shawarma-ajah@gmail.com",
       "id": "5f5eccf3e923d0aca3e7d412",
-      "reviewsList": [
-       
-      ]
+      "reviewsList": []
     },
     {
       "reviews": 0,
@@ -723,9 +598,7 @@
       "slug": "le-brigadier-kitchen",
       "email": "le-brigadier-kitchen@gmail.com",
       "id": "5f5eccf3e923d0aca3e7d42c",
-      "reviewsList": [
-       
-      ]
+      "reviewsList": []
     },
     {
       "reviews": 0,
